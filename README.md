@@ -1,2 +1,2 @@
 # myazuregithub
-My Azure Git Hub
+My Azure Git Hub Repository
